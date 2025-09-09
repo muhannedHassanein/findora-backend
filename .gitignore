@@ -1,3 +1,4 @@
+
 # Node modules
 /node_modules
 
@@ -11,3 +12,5 @@ yarn-error.log*
 
 # Others
 .DS_Store
+
+.vercel
